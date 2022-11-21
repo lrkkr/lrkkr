@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lrkkr
+- 👀 I’m interested in VLSI design, web programming and investment.
+- 🌱 I’m currently learning Rust, graph theory and web programming.
